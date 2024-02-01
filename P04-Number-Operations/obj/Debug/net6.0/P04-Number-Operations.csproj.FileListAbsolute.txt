@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\bin\Debug\net6.0\P04-Number-Operations.exe
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\bin\Debug\net6.0\P04-Number-Operations.deps.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\bin\Debug\net6.0\P04-Number-Operations.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\bin\Debug\net6.0\P04-Number-Operations.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\bin\Debug\net6.0\P04-Number-Operations.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\refint\P04-Number-Operations.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\P04-Number-Operations.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P04-Number-Operations\obj\Debug\net6.0\ref\P04-Number-Operations.dll

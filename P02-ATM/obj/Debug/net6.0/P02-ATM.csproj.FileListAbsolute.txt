@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\bin\Debug\net6.0\P02-ATM.exe
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\bin\Debug\net6.0\P02-ATM.deps.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\bin\Debug\net6.0\P02-ATM.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\bin\Debug\net6.0\P02-ATM.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\bin\Debug\net6.0\P02-ATM.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\refint\P02-ATM.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\P02-ATM.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P02-ATM\obj\Debug\net6.0\ref\P02-ATM.dll

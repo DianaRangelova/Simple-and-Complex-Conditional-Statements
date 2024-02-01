@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouslcDNcsyVTD8gxLviIAUow81YW00ufSBradhA8qdJbFFoaSwdGSL4bxKAEFgsgYV1+ZpEmRDj1Le5cYBNlZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Simple-and-Complex-Conditional-Statements\\P05-Vacation-Expenses\\P05-Vacation-Expenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hht+r6CEyDh5+d1JDqExwl9XIwP8Bz489zJUFjuTeZT6fZrq96p/FcgPfuliXligdiTakDKP/Qa09YAIJ46+wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Simple-and-Complex-Conditional-Statements\\P02-ATM\\P02-ATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

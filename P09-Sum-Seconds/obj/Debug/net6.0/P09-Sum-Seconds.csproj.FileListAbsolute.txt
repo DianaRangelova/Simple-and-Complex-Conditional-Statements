@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\bin\Debug\net6.0\P09-Sum-Seconds.exe
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\bin\Debug\net6.0\P09-Sum-Seconds.deps.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\bin\Debug\net6.0\P09-Sum-Seconds.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\bin\Debug\net6.0\P09-Sum-Seconds.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\bin\Debug\net6.0\P09-Sum-Seconds.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\refint\P09-Sum-Seconds.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\P09-Sum-Seconds.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P09-Sum-Seconds\obj\Debug\net6.0\ref\P09-Sum-Seconds.dll

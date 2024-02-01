@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WNFd+JLsqkaE0w+xeE9cVFMqhNfuDkrKwF1vx5y80SAhtlNPit95Zi8KQD+ir/N7S+aIS2GeytOBNz997NPxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Simple-and-Complex-Conditional-Statements\\P06-Product-of-Three-Numbers\\P06-Product-of-Three-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

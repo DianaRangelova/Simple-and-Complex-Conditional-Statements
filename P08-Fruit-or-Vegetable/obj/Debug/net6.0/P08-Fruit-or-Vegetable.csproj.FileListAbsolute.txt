@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\bin\Debug\net6.0\P08-Fruit-or-Vegetable.exe
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\bin\Debug\net6.0\P08-Fruit-or-Vegetable.deps.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\bin\Debug\net6.0\P08-Fruit-or-Vegetable.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\bin\Debug\net6.0\P08-Fruit-or-Vegetable.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\bin\Debug\net6.0\P08-Fruit-or-Vegetable.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\refint\P08-Fruit-or-Vegetable.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\P08-Fruit-or-Vegetable.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P08-Fruit-or-Vegetable\obj\Debug\net6.0\ref\P08-Fruit-or-Vegetable.dll

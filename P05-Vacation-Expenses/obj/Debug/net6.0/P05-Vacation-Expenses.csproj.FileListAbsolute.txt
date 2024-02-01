@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\bin\Debug\net6.0\P05-Vacation-Expenses.exe
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\bin\Debug\net6.0\P05-Vacation-Expenses.deps.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\bin\Debug\net6.0\P05-Vacation-Expenses.runtimeconfig.json
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\bin\Debug\net6.0\P05-Vacation-Expenses.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\bin\Debug\net6.0\P05-Vacation-Expenses.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\refint\P05-Vacation-Expenses.dll
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.pdb
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\P05-Vacation-Expenses.genruntimeconfig.cache
+C:\Users\PC\source\repos\Simple-and-Complex-Conditional-Statements\P05-Vacation-Expenses\obj\Debug\net6.0\ref\P05-Vacation-Expenses.dll
